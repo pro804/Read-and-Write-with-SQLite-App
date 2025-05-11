@@ -1,4 +1,4 @@
-# Read and Write with SQLite
+# Read-and-Write-with-SQLite-App
 
 This project is a simple React Native app that demonstrates how to read and write data to a SQLite database. The app uses the Expo framework and the Expo SQLite library to interact with the database.
 
@@ -29,3 +29,4 @@ Contributions are welcome! If you have any ideas for new features or bug fixes, 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
+
