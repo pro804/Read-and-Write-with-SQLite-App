@@ -4,7 +4,12 @@ A simple and educational React Native application built with Expo that demonstra
 
 > ✨ Designed for clarity and ease-of-use, this app is perfect for those new to mobile development with Expo and local data storage.
 
+[![Expo](https://img.shields.io/badge/Expo-53.0.9-000.svg?style=flat&logo=EXPO)](https://expo.io/)
+[![React Native](https://img.shields.io/badge/React_Native-0.79.2-61dafb.svg?style=flat&logo=react)](https://reactnative.dev/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ---
+
+![App Preview](/screenshots/App_review.gif)
 
 ## 📚 Table of Contents
 

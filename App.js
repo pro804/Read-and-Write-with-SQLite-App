@@ -1,6 +1,6 @@
 import { SQLiteProvider } from "expo-sqlite";
-import UserForm from "./Userform";
-import UserList from "./UserList";
+import UserForm from "./components/Userform";
+import UserList from "./components/UserList";
 import { useState } from "react";
 
 
